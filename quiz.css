@@ -1,0 +1,23 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  color: white;
+  background-image: url(https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpJfHzcl.png);
+  background-size: cover; 
+  background-repeat: no-repeat; 
+  background-attachment: fixed;
+  letter-spacing: 2px;
+  word-spacing: 1px;
+}
+
+.bar {
+  background-color: #c20000;
+}
+
+#Do {
+  font-family: cursive;
+}
